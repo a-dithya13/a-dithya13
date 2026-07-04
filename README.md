@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CSE Undergrad (2nd Year)  <br>🔧 Frontend → Full Stack in progress  <br>📈 Learning React + DSA to improve problem-solving skills  <br>🎯 Focused on becoming a better problem solver through DSA + real projects<br>
+💻 CSE Undergrad (3rd Year)  <br>🔧 Frontend → Full Stack in progress  <br>📈 Learning React + DSA to improve problem-solving skills  <br>🎯 Focused on becoming a better problem solver through DSA + real projects<br>
 
 
 ## 🌐 Socials:
