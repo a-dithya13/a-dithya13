@@ -1,24 +1,65 @@
-# 💫 About Me:
-💻 CSE Undergrad (3rd Year)  <br>🔧 Frontend → Full Stack in progress  <br>📈 Learning React + DSA to improve problem-solving skills  <br>🎯 Focused on becoming a better problem solver through DSA + real projects<br>
+# Adithya Karkera
 
+Computer Science & Engineering undergraduate interested in building software, solving technical problems, and exploring how different systems work.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-karkera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyask45@gmail.com) 
+Currently working on:
+- Data Structures & Algorithms
+- Full-stack web development
+- Building and improving personal projects
+- Exploring Quantum Computing and Qiskit
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=a-dithya13&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=a-dithya13&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-dithya13&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Technical Skills
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=a-dithya13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+**Languages**
+C · C++ · Java · JavaScript · Python
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Web Development**
+HTML · CSS · React · Node.js · Express.js · REST APIs
 
----
-[![](https://visitcount.itsvg.in/api?id=a-dithya13&icon=8&color=0)](https://visitcount.itsvg.in)
+**Databases**
+MongoDB · SQL
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Tools**
+Git · GitHub · Docker · VS Code
+
+**Currently Exploring**
+Quantum Computing · Qiskit · Blockchain · Smart Contracts
+
+## Projects
+
+Some of the projects I have worked on:
+
+- **ScrowChain** — Blockchain-based escrow solution developed for a hackathon.
+- **PublicEye** — MERN-based civic issue reporting and management platform.
+- **LogiSys** — Web-based allocation system built around priority and FIFO-based resource management.
+- **Expense Tracker** — C-based expense management application with CSV export and undo functionality.
+- **F1 Race Dashboard** — F1 telemetry and race visualization project extended with driver statistics and discovery features.
+- **EnviroPulse** — Platform connecting users with scrap collection and recycling services.
+- **Event Scheduler** — JavaScript-based event management application using browser storage.
+
+## Hackathons
+
+**Smart Horizon International Hackathon**
+- Qualified for the final stage.
+- Team Lead — ScrowChain / Dracarys
+
+**Manipal Hackathon**
+- Team Lead — EnviroPulse
+- Finished among the top teams in our track.
+
+## Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Full-stack development
+- Docker and backend development
+- Quantum Computing fundamentals
+- Qiskit
+
+## Interests
+
+Software Development · Emerging Technologies · Quantum Computing · Problem Solving · Football · Gym · Reading
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/adithya-karkera) ·
+[Email](mailto:adithyask45@gmail.com)
